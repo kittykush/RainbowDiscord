@@ -1,0 +1,56 @@
+//META{"name":"Rainbow_Channels","description":"This Theme Makes channels Rainbow,  Enable This Theme LAST For it To Take Effect","author":"KKXO","version":"3.0"}*//{}
+.theme-dark .nameUnreadText-DfkrI4, .nameUnreadVoice-EVo-wI, .theme-light .nameHoveredText-1uO31y:hover,.theme-dark .wrapper-3WhCwL:hover, .theme-dark .wrapper-3WhCwL {
+  background: transparent !important;
+}
+
+.theme-dark .nameConnectedText-3CzNQn, .nameConnectedVoice-MHUX5F, .nameSelectedText-sp_EUw, .nameSelectedVoice-1qSph5, .theme-light .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM,.theme-dark .wrapper-3WhCwL,.theme-dark .wrapper-3WhCwL:hover,.theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM, .theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM {
+
+  color: #00e5ff;
+  animation: coloredchannels 3s infinite linear;
+}
+
+.theme-dark .nameUnreadText-DfkrI4, .nameUnreadVoice-EVo-wI, .theme-light .nameHoveredText-1uO31y:hover, .theme-dark .wrapper-3WhCwL:hover, .theme-dark .wrapper-3WhCwL, .nameHoveredVoice-YJ1Vfd, .nameHoveredText-1uO31y, .nameSelectedVoice-1qSph5, .theme-light .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM,.theme-dark .wrapper-3WhCwL,.theme-dark .wrapper-3WhCwL:hover,.theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM, .theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM {
+
+  color: #00e5ff;
+  animation: coloredchannels 3s infinite linear;
+}
+
+.theme-dark .name-3YKhmS, .name-3YKhmS, .theme-light .name-3YKhmS, .theme-dark .wrapper-3WhCwL:hover, .theme-dark .wrapper-3WhCwL, .nameHoveredVoice-YJ1Vfd, .nameHoveredText-1uO31y, .nameSelectedVoice-1qSph5, .theme-light .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM,.theme-dark .wrapper-3WhCwL,.theme-dark .wrapper-3WhCwL:hover,.theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM, .theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM {
+
+  color: #00e5ff;
+  animation: coloredchannels 3s infinite linear;
+}
+
+.theme-dark .itemSubMenu-1vN_Yn, .itemSubMenu-1vN_Yn, .itemSubMenu-1vN_Yn, .theme-dark .wrapper-3WhCwL:hover, .theme-dark .wrapper-3WhCwL, .nameHoveredVoice-YJ1Vfd, .nameHoveredText-1uO31y, .nameSelectedVoice-1qSph5, .theme-light .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM,.theme-dark .wrapper-3WhCwL,.theme-dark .wrapper-3WhCwL:hover,.theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM, .theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM {
+
+  color: #00e5ff;
+  animation: coloredchannels 3s infinite linear;
+}
+
+.theme-dark .privateChannels-1nO12o header, .privateChannels-1nO12o header, .theme-light .privateChannels-1nO12o header, .theme-dark .wrapper-3WhCwL:hover, .theme-dark .wrapper-3WhCwL, .nameHoveredVoice-YJ1Vfd, .nameHoveredText-1uO31y, .nameSelectedVoice-1qSph5, .theme-light .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM,.theme-dark .wrapper-3WhCwL,.theme-dark .wrapper-3WhCwL:hover,.theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM, .theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM {
+
+  color: #00e5ff;
+  animation: coloredchannels 3s infinite linear;
+}
+
+.theme-dark .ownerIcon-uZ6mE7, .ownerIcon-uZ6mE7, .theme-light .ownerIcon-uZ6mE7, .theme-dark .wrapper-3WhCwL:hover, .theme-dark .wrapper-3WhCwL, .nameHoveredVoice-YJ1Vfd, .nameHoveredText-1uO31y, .nameSelectedVoice-1qSph5, .theme-light .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM,.theme-dark .wrapper-3WhCwL,.theme-dark .wrapper-3WhCwL:hover,.theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM, .theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM {
+
+  color: #00e5ff;
+  animation: coloredchannels 3s infinite linear;
+}
+
+.theme-dark .channelName-3stJzi, .theme-dark .groupDM-3qU0Ks .channelName-3stJzi, .theme-dark .groupDMManaged-1GyXtq .channelName-3stJzi, .theme-dark .input-autosize-input, .theme-dark .input-autosize-input:focus, .theme-dark .wrapper-3WhCwL:hover, .theme-dark .wrapper-3WhCwL, .nameHoveredVoice-YJ1Vfd, .nameHoveredText-1uO31y, .nameSelectedVoice-1qSph5, .theme-light .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM,.theme-dark .wrapper-3WhCwL,.theme-dark .wrapper-3WhCwL:hover,.theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM, .theme-dark .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM {
+
+  color: #00e5ff;
+  animation: coloredchannels 3s infinite linear;
+}
+
+@keyframes coloredchannels {
+  from {
+    -webkit-filter: hue-rotate(0deg);
+  }
+
+  to {
+    -webkit-filter: hue-rotate(360deg);
+  }
+}
